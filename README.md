@@ -27,8 +27,3 @@ Finally, I visualise the data as an interactive 3-page dashboard in PowerBI. I a
 **Page 3 - Sales by Product**
 
 ![portfolio_1-image-adventure_works_3](https://user-images.githubusercontent.com/122973220/213426517-39db89b9-88e1-4241-9844-bd65cfadb686.jpg)
-
-
-
-
-Statement to self - New Year's Resolution: As of January 2023, I intend to achieve this level of proficiency in Python (and if possible, complete this full project and upload here to GitHub) at most within the end of 2023, allowing for unforeseen constraints, though I hope to achieve it sooner.
